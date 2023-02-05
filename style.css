@@ -1,0 +1,57 @@
+.navbar{
+    height: 70px;
+}
+#mynavbar{
+    background-color: darkgreen;
+}
+#about-us:hover{
+    background-color: whea;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 8px 8px;
+}
+.vertical-line{
+    border-left: 2px solid gray;
+    height: 68px;
+    position: absolute;
+    left: 93%;
+    margin-left: -3px;
+    top: 0;
+}
+.account-icon{
+    margin-right:15px;
+}
+.account-icon:hover{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.modal-content{
+    background-color: lightblue;
+}
+.required{
+    color: red;
+}
+#new-account-coontainer{
+    height: 200px;
+    background-color: burlywood;
+}
+.col-register{
+    height: 180px;
+}
+.modal-form{
+    border-top: 2px solid black;
+}
+.model-new-account{
+    color: black;
+}
+.create-account-btn{
+    padding: 30px;
+}
